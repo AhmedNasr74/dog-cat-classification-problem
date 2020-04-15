@@ -1,6 +1,7 @@
 # dog-cat-classification-problem
 
-[dataset link]: https://www.kaggle.com/c/3362/download-all
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
+
 
 ### Train and test svm model for cat-dog classification
 
